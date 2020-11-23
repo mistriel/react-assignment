@@ -14,7 +14,7 @@ You will also see any lint errors in the console.
 
 ## Assignments
 
-* Create separate components classes
+* Create separate function components with useState hook
 * Convert JS to TS
 * Create a score board component with all summary of wins of each player
 * Handle state with Mobx
